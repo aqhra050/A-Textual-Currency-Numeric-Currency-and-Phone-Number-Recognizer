@@ -1,0 +1,26 @@
+one two
+three 
+four
+five 
+six
+seven eight nine 9
+twenty
+twenty one
+twenty three
+thirty five
+sixty nine
+seventy-nine
+fifteen
+sixteen
+seventeen
+nine hundred
+five hundred and fifty
+four hundred and sixty nine
+five thousand and five hundred
+100 dollars and 20 cents
+100.543 dollar
+1.43 cents
+nine hundred dollars
+10 thousand dollars
+20 million dollars
+$20 million
